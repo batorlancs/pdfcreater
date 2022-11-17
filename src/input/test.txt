@@ -1,0 +1,36 @@
+.paragraph
+.large
+.bold
+this is a title
+.paragraph
+.small
+.italic
+this is a small description.
+something nice.
+.paragraph
+.regular
+.normal
+.fill
+.indent +10
+this is the context.
+ Writing some more tto check everything is alright.
+this is the context.
+ Writing some more tto check everything is alright.
+this is the context.
+ Writing some more tto check everything is alright.
+this is the context.
+ Writing some more tto check everything is alright.
+this is the context.
+ Writing some more tto check everything is alright.
+this is the context.
+ Writing some more tto check everything is alright.
+this is the context.
+ Writing some more tto check everything is alright.
+.paragraph
+.nofill
+.indent -10
+.bold
+Written by,
+.paragraph
+.regular
+Gergely
